@@ -8,5 +8,7 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 
 Samples of Student Work
 -----------------------
+[Naomi](NaomiSpirograph.gif)   
 [Sally](SallySpirograph.gif)  
 [Diego](DiegoSpirograph.gif)   
+[Michelle](MichelleSpirograph.gif)  
