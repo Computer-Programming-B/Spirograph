@@ -11,5 +11,5 @@ Samples of Student Work
 [Naomi](NaomiSpirograph.gif)   
 [Sally](SallySpirograph.gif)  
 [Diego](DiegoSpirograph.gif)   
-[Michelle](MichelleSpirograph.gif)
+[Michelle](MichelleSpirograph.gif)   
 [Tommy](TommyHSpirograph.gif)
