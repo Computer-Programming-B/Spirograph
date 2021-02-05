@@ -1,3 +1,4 @@
+![](JennieSpirograph.gif)  
 Spirograph
 =============================================
 The [Spriograph](https://en.wikipedia.org/wiki/Spirograph) is a toy that was invented in 1965. It creates patterns of shapes by rotating the shapes as they are drawn. In this assignment we will create a simulation of a spirograph pattern by using one or more loops and turtle graphics. You will use your turtle to draw a shape and then rotate the direction of the turtle. Repeating this process of drawing a shape and then rotating the turtle will create a design similar to what a spirograph produces. You may find slides 117 - 125 in the [slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit) helpful.   
