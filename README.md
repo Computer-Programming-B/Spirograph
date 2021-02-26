@@ -11,6 +11,7 @@ Samples of Student Work
 -----------------------
 [Joanne](JoanneSpirograph.gif)   
 [Elliot](ElliotSpirograph.gif)   
+[Emely](EmelySpirograph.gif)   
 [Jennie](JennieSpirograph.gif)   
 [Ken](KenSpirograph.gif)   
 [Joanna](JoannaSpirograph.gif)   
