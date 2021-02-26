@@ -15,6 +15,7 @@ Samples of Student Work
 [Abigail](AbigailSpirograph.gif)   
 [Elliot](ElliotSpirograph.gif)   
 [Emely](EmelySpirograph.gif)   
+[Sean](SeanSpirograph.gif)   
 [Jennie](JennieSpirograph.gif)   
 [Celine](CelineSpirograph.gif)   
 [Ken](KenSpirograph.gif)   
