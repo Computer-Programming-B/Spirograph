@@ -17,6 +17,7 @@ Samples of Student Work
 [Celine](CelineSpirograph.gif)   
 [Ken](KenSpirograph.gif)   
 [Joanna](JoannaSpirograph.gif)   
+[Tushig](TushigSpirograph.gif)   
 [Naomi](NaomiSpirograph.gif)   
 [Daniil](DaniilSpirograph.gif)   
 [Sally](SallySpirograph.gif)  
