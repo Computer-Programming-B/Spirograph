@@ -10,6 +10,7 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 Samples of Student Work
 -----------------------
 [Joanne](JoanneSpirograph.gif)   
+[Abigail](AbigailSpirograph.gif)   
 [Elliot](ElliotSpirograph.gif)   
 [Emely](EmelySpirograph.gif)   
 [Jennie](JennieSpirograph.gif)   
