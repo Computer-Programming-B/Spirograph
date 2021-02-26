@@ -9,6 +9,7 @@ Don't hesitate to ask for help if your aren't sure how something is suppose to w
 
 Samples of Student Work
 -----------------------
+[Joanne](JoanneSpirograph.gif)   
 [Elliot](ElliotSpirograph.gif)   
 [Jennie](JennieSpirograph.gif)   
 [Ken](KenSpirograph.gif)   
